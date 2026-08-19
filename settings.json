@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "After12mc.aternos.me",
+    "ip": "After12mc.aternos.me:30200",
     "port": 30200,
     "version": "",
     "try-creative": false
